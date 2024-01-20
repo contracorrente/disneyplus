@@ -3,13 +3,13 @@
 </p>
 <div id="dplus__centralized-ghinfo" align="center">
     <a href="https://nodejs.org/en">
-        <img src="https://img.shields.io/static/v1?label=Node.js&message=~^20.11.0&color=339933&logo=nodedotjs&logoColor=339933" alt="Node.js">
+        <img src="https://img.shields.io/static/v1?label=Node.js&message=~^20.11.0&color=339933&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
     </a>
     <a href="https://github.com/contracorrente/disneyplus/blob/main/LICENSE">
-        <img src="https://img.shields.io/badge/License-MIT-750014" alt="License">
+        <img src="https://img.shields.io/badge/License-MIT-750014" alt="License"/>
     </a>
     <a href="https://www.disneyplus.com/pt-br">
-        <img src="https://img.shields.io/badge/Disney%2B-113CCF" alt="Disney+">
+        <img src="https://img.shields.io/badge/Disney%2B-113CCF" alt="Disney+"/>
     </a>
 </div>
 <h1 id="dplus__centralized-ghdivd"></h1>
