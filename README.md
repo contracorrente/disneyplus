@@ -4,14 +4,17 @@
     </a>
 </p>
 <div id="dplus__centralized-ghtech" align="center">
+    <a href="https://react.dev">
+        <img src="https://img.shields.io/static/v1?label=&message=Next.js&color=000000&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js">
+    </a>
     <a href="https://kafka.apache.org">
         <img src="https://img.shields.io/static/v1?label=&message=Apache Kafka&color=231F20&logo=apachekafka&logoColor=FFFFFF" alt="Apache Kafka">
     </a>
+    <a href="https://www.typescriptlang.org">
+        <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF" alt="TypeScript">
+    </a>
     <a href="https://nodejs.org">
         <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js">
-    </a>
-    <a href="https://react.dev">
-        <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=333333" alt="React">
     </a>
     <br><br>
     <p id="dplus__centralized-ghlang">
