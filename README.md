@@ -1,8 +1,3 @@
-<style lang="css">
-    #dplus__centralized-ghlang {
-        margin-top: 2rem;
-    }
-</style>
 <p id="dplus__centralized-ghlogo" align="center">
     <a href="https://disneyplus.com">
         <img src="https://asset.brandfetch.io/idhQlYRiX2/idtmkrxMme.svg" width="200" alt="Disney+ Logo"/>
@@ -21,6 +16,7 @@
     <a href="https://react.dev">
         <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=333333" alt="React">
     </a>
+    <br><br>
     <p id="dplus__centralized-ghlang">
         This repo is available in two different languages. Este repositório está disponível em duas línguas diferentes.
     </p>
