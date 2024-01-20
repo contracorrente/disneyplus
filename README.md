@@ -15,8 +15,10 @@
 <h1 id="dplus__centralized-ghdivd"></h1>
 <h3 id="dplus__leftaligned-ghenus">English</h3>
 
-This project aims to create a perfect [Disney+](https://www.disneyplus.com/en) clone as of 2024. The technologies used will be properly listed and explained [right here](https://github.com/contracorrente/disneyplus/blob/main/TECHNOLOGIES.md), providing enough information about the proccess of building the application also giving real life examples of how that should work and how that should behave.
+This project aims to create a perfect [Disney+](https://www.disneyplus.com/en) clone as of 2024. The technologies used will be properly listed and explained [right here](https://github.com/contracorrente/disneyplus/blob/main/TECHNOLOGIES.md), providing enough information about the proccess of building the application also giving real life examples of how that should work and behave.
 
-© Disney. All Rights Reserved.
+© Disney. All Rights Reserved. This web application is based on the Disney+ streaming service, using its assets to recrete the platform as part of a portfolio project. Made independently by the creator of this repo.
 
 <h3 id="dplus__leftaligned-ghptbr">Português do Brasil</h3>
+
+Esse projeto busca criar um clone perfeito do [Disney+](https://www.disneyplus.com/pt-br) em 2024. As tecnologias utilizadas serão propriamente listadas e explicadas [aqui](https://github.com/contracorrente/disneyplus/blob/main/TECHNOLOGIES.md), garantindo informação suficiente sobre o processo de criação desse aplicativo e dando exemplos da vida real sobre como ele deve funcionar e se comportar.
