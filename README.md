@@ -14,5 +14,9 @@
 </div>
 <h1 id="dplus__centralized-ghdivd"></h1>
 <h3 id="dplus__leftaligned-ghenus">English</h3>
+
 This project aims to create a perfect [Disney+](https://www.disneyplus.com/en) clone as of 2024. The technologies used will be properly listed and explained [right here](https://github.com/contracorrente/disneyplus/blob/main/TECHNOLOGIES.md), providing enough information about the proccess of building the application also giving real life examples of how that should work and how that should behave.
+
+© Disney. All Rights Reserved.
+
 <h3 id="dplus__leftaligned-ghptbr">Português do Brasil</h3>
