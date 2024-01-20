@@ -1,21 +1,29 @@
+<style lang="css">
+    #dplus__centralized-ghlang {
+        margin-top: 2rem;
+    }
+</style>
 <p id="dplus__centralized-ghlogo" align="center">
     <a href="https://disneyplus.com">
         <img src="https://asset.brandfetch.io/idhQlYRiX2/idtmkrxMme.svg" width="200" alt="Disney+ Logo"/>
     </a>
 </p>
 <div id="dplus__centralized-ghtech" align="center">
-    <a href="https://nodejs.org">
-        <img src="https://img.shields.io/static/v1?label=&message=NodeJS&color=339933&logo=nodedotjs&logoColor=FFFFFF" alt="NodeJS">
-    </a>
-    <a href="https://react.dev">
-        <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=333333" alt="React">
+    <a href="https://kafka.apache.org">
+        <img src="https://img.shields.io/static/v1?label=&message=Apache Kafka&color=231F20&logo=apachekafka&logoColor=FFFFFF" alt="Apache Kafka">
     </a>
     <a href="https://mongodb.com">
         <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF" alt="MongoDB">
     </a>
-    <a href="https://kafka.apache.org">
-        <img src="https://img.shields.io/static/v1?label=&message=Apache Kafka&color=231F20&logo=apachekafka&logoColor=FFFFFF" alt="Apache Kafka">
+    <a href="https://nodejs.org">
+        <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js">
     </a>
+    <a href="https://react.dev">
+        <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=333333" alt="React">
+    </a>
+    <p id="dplus__centralized-ghlang">
+        This repo is available in two different languages. Este repositório está disponível em duas línguas diferentes.
+    </p>
 </div>
 <h1 id="dplus__centralized-ghdivd"></h1>
 <h3 id="dplus__leftaligned-ghenus">English</h3>
