@@ -22,3 +22,5 @@ This project aims to create a perfect [Disney+](https://www.disneyplus.com/en) c
 <h3 id="dplus__leftaligned-ghptbr">Português do Brasil</h3>
 
 Esse projeto busca criar um clone perfeito do [Disney+](https://www.disneyplus.com/pt-br) em 2024. As tecnologias utilizadas serão propriamente listadas e explicadas [aqui](https://github.com/contracorrente/disneyplus/blob/main/TECHNOLOGIES.md), garantindo informação suficiente sobre o processo de criação desse aplicativo e dando exemplos da vida real sobre como ele deve funcionar e se comportar.
+
+© Disney. Todos os direitos reservados. Essa aplicação web é baseada no serviço de streaming do Disney+, utilizando dos seus recursos para recriar a plataforma como parte de um projeto para comport portfólio. Feito de maneira independente pelo criador deste repositório.
