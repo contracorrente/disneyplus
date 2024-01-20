@@ -7,9 +7,6 @@
     <a href="https://kafka.apache.org">
         <img src="https://img.shields.io/static/v1?label=&message=Apache Kafka&color=231F20&logo=apachekafka&logoColor=FFFFFF" alt="Apache Kafka">
     </a>
-    <a href="https://mongodb.com">
-        <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF" alt="MongoDB">
-    </a>
     <a href="https://nodejs.org">
         <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js">
     </a>
